@@ -15,8 +15,7 @@ class Input extends Component {
   
 
   render(){
-    const  { name } = this.props
-    const {value } =this.state
+    
     return (
       <div>
         <form>
